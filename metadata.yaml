@@ -3,6 +3,9 @@ _version: 0.1.0
 alternative_title:
 - The armourer and his craft from the eleventh to the sixteenth century
 - The armourer and his craft from the 11th to the 16th century
+covers:
+- cover_type: archival
+  image_path: 60767-h/images/cover.jpg
 creator:
   author:
     agent_name: Ffoulkes, Charles John
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41297
     wikipedia: https://en.wikipedia.org/wiki/Charles_ffoulkes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60767#The-armourer-and-his-craft-from-the-XIth-to-the-XVIth-century
 gutenberg_issued: '2019-11-23'
 gutenberg_type: Text
 identifiers:
