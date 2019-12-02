@@ -1,0 +1,38 @@
+_repo: The-armourer-and-his-craft-from-the-XIth-to-the-XVIth-century_60767
+_version: 0.0.1
+alternative_title:
+- The armourer and his craft from the eleventh to the sixteenth century
+- The armourer and his craft from the 11th to the 16th century
+creator:
+  author:
+    agent_name: Ffoulkes, Charles John
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '41297'
+    url: http://www.gutenberg.org/2009/agents/41297
+    wikipedia: https://en.wikipedia.org/wiki/Charles_ffoulkes
+description: ''
+gutenberg_issued: '2019-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60767'
+  lccn: '21010152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weapons -- History'
+- !lcsh 'Armorers'
+- !lcc 'NK'
+- !lcsh 'Armor -- History'
+- !lcc 'U'
+- GITenberg
+tableOfContents: Preface -- The armourer -- Tools, appliances, etc. -- Iron and steel
+  -- The craft of the armourer -- The proof of armour -- The decoration of armour
+  -- The cleaning of armour -- The use of fabrics and linen -- The use of leather
+  -- The wearing of armour -- The armourers' company of the City of London -- Lists
+  of European armourers -- Short biographies of notable armourers -- List of armourers'
+  marks -- Polyglot glossary of words dealing with armour and weapons -- Appendices.
+title: The armourer and his craft from the XIth to the XVIth century
+url: http://www.gutenberg.org/ebooks/60767
